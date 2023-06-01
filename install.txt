@@ -1,0 +1,5 @@
+moviepy
+revid
+pyautogui
+pydub
+praw
